@@ -1,7 +1,7 @@
 public class forceclass {
     public void Hello()
     {
-        system.debug('HELLO THERE HOPE YOU ARE DOING GOOD');
+        system.debug('HELLO THERE HOPE YOU ARE DOING GOOD?');
         
     }
     public void add()
